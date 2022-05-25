@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Github Stats
+
+![pdsam's github stats](https://github-readme-stats.vercel.app/api?username=pdsam&show_icons=true)
+
+
 <!--
 **pdsam/pdsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
